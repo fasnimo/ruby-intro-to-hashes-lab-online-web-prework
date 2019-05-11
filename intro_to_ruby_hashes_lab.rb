@@ -5,7 +5,7 @@ puts new_hash
 
 def actor
 actor = Hash.new
-actor[name:] = "Dwayne The Rock Johnson"
+actor[name] = "Dwayne The Rock Johnson"
 end
 
 def monopoly
