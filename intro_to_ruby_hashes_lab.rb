@@ -4,8 +4,8 @@ end
 puts new_hash
 
 def actor
-name = Hash.new
-name[name:] = "Dwayne The Rock Johnson"
+actor = Hash.new
+actor[name:] = "Dwayne The Rock Johnson"
 end
 
 def monopoly
